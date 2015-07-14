@@ -1,0 +1,2 @@
+# Magic-Cube
+Work mathematics 
